@@ -12,6 +12,17 @@ Store, explore, share and create FileMaker code
 
 The new prepped file will be in '/dist'
 
+### Videos
+
+JSON API and Field Maps
+http://youtu.be/OG_wDuFbFQo
+
+Custom Generartors
+http://youtu.be/EnycrdIHSBQ
+
+Storing things on Disk
+http://youtu.be/8-bjvfMV_Jk
+
 ## Pre-Release
 
 This is early beta quality. There are likely a lot of bugs. Especially on Windows, which has not been tested extensively.
@@ -31,6 +42,20 @@ The Field Maps feature currently doesn't have import and export, nor does store 
 
 We are convinced that anything that might be shared or checked into a Version Control (like GitHub) should be in text. But it's not clear yet which approach is best, Save everything on edit, or just allow export and import.  Your feedback is appreciated.
 
+## Contributing
+
+We welcome contributions from the community. Thats what this is all about.
+
+FileMaker files don't lend themselves well to Github, since we can't do merges and pull requests. Thats part of what this project is trying to change. But we can still use github for issues, comments and planning.
+
+If you find a bug, please include a copy of the file with a Test that shows the bug in action if you can. Its the best way to get your issues addressed.  Bugs that are clearly demonstrated are easily fixed.
+
+If you have bug fix, please include a copy of the file with the bug fixed. and instructions on where it is.
+
+If you have ideas, please flesh them out in a copy of the file and include it on the issue. Nothing gets an idea accross like semi functional code.
+
+
+
 ## Roadmap
 
 ### Multi Clip Generators and Playback
@@ -45,3 +70,9 @@ This will have to be a web viewer app, doable but hard. And you can use text edi
 
 ### Extending Field Maps
 Right now field maps are sort of coupled to the JSON API explorer.  They don't need to be.  We should be able to Browse open files, and tables, and build JSON calcs and parsing script steps.
+
+## Credits
+
+Todd Geist created and designed Generator
+Chiyoko Yoshida of [chiyoFM](http://www.chiyoFM.com) created the Theme
+Nick Orr of [Goya LT](https://www.goya.com.au) provides the amazing and free Base Elements Plugin
