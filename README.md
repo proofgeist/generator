@@ -12,14 +12,14 @@ Store, explore, share and create FileMaker code
 * Launch the "build.fmp12" file.
 * Press "Build"
 
-The new prepped file will be in '/dist'
+The newly prepped file will be in '/dist'
 
 ### Videos
 
 JSON API and Field Maps
 http://youtu.be/OG_wDuFbFQo
 
-Custom Generartors
+Custom Generators
 http://youtu.be/EnycrdIHSBQ
 
 Storing things on Disk
@@ -29,14 +29,14 @@ http://youtu.be/8-bjvfMV_Jk
 
 This is early beta quality. There are likely a lot of bugs. Especially on Windows, which has not been tested extensively.
 
-Pleas report bugs here in the Githubs Issues.  It would be great if you could provide a fixed version in the issue, with notes etc.
+Please report bugs here in the Github's Issues.  It would be great if you could provide a fixed version in the issue, with notes, etc.
 
 ## A Dev Tool Toolkit
-Under the hood you will find a collection of custom functions, and techniques that making building a Dev Toolkit like this one possible. Check them out and see what you can do. We hope to inspire people to build on top of Generator and the functions it includes. 
+Under the hood, you will find a collection of custom functions, and techniques that making building a Dev Toolkit like this one possible. Check them out and see what you can do. We hope to inspire people to build on top of Generator and the functions it includes. 
 
 ## Storing Data In Text Files
 
-A core Generator ideal is that storing this stuff as text files is ultimately better for maintaining, and sharing this type of code. To that end the "Custom Generators" feature saves everything to disk as soon as you save edits.
+A core Generator ideal is that storing this stuff as text files is ultimately better for maintaining, and sharing this type of code. To that end, the "Custom Generators" feature saves everything to disk as soon as you save edits.
 
 The JSON API Explorer doesn't store things automatically on disk but instead makes it easy to export and import Requests.
 
@@ -46,15 +46,15 @@ We are convinced that anything that might be shared or checked into a Version Co
 
 ## Contributing
 
-We welcome contributions from the community. Thats what this is all about.
+We welcome contributions from the community. That's what this is all about.
 
-FileMaker files don't lend themselves well to Github, since we can't do merges and pull requests. Thats part of what this project is trying to change. But we can still use github for issues, comments and planning.
+FileMaker files don't lend themselves well to Github since we can't do merges and pull requests. That's part of what this project is trying to change. But we can still use Github for issues, comments, and planning.
 
 If you find a bug, please include a copy of the file with a Test that shows the bug in action if you can. Its the best way to get your issues addressed.  Bugs that are clearly demonstrated are easily fixed.
 
-If you have bug fix, please include a copy of the file with the bug fixed. and instructions on where it is.
+If you have a bug fix, please include a copy of the file with the bug fixed. And instructions on where it is.
 
-If you have ideas, please flesh them out in a copy of the file and include it on the issue. Nothing gets an idea accross like semi functional code.
+If you have ideas, please flesh them out in a copy of the file and include it on the issue. Nothing gets an idea across like semi-functional code.
 
 
 
@@ -65,13 +65,13 @@ We think that people will want to create a series of generators that should be "
 
 What we don't have yet is a great playback experience.  But we think we could get there.  Perhaps with a simpler Generator player file, that sucks up a folder full of generator packages and walks a user through those steps.
 
-We hope to get there over time. Again your feedback or examples are really appreciated.
+We hope to get there over time. Again your feedback or examples are appreciated.
 
 ### XML Editor with Find and Replace
-This will have to be a web viewer app, doable but hard. And you can use text editors now, since everything is on disk.
+This will have to be a web viewer app, doable but hard. And you can use text editors now since everything is on disk.
 
 ### Extending Field Maps
-Right now field maps are sort of coupled to the JSON API explorer.  They don't need to be.  We should be able to Browse open files, and tables, and build JSON calcs and parsing script steps.
+Right now field maps are sort of coupled to the JSON API explorer.  They don't need to be.  We should be able to Browse open files and tables and build JSON calcs and parsing script steps.
 
 ## Credits
 
