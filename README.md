@@ -6,6 +6,8 @@ Store, explore, share and create FileMaker code
 
 ## Getting Started
 
+**You'll need [BaseElements Plugin](http://www.goya.com.au/baseelements/plugin) to even do the build step**
+
 * Download or clone or this repository.
 * Launch the "build.fmp12" file.
 * Press "Build"
