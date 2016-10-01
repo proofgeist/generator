@@ -73,6 +73,6 @@ Right now field maps are sort of coupled to the JSON API explorer.  They don't n
 
 ## Credits
 
-Todd Geist created and designed Generator
-Chiyoko Yoshida of [chiyoFM](http://www.chiyoFM.com) created the Theme
-Nick Orr of [Goya LT](https://www.goya.com.au) provides the amazing and free Base Elements Plugin
+Todd Geist created and designed Generator  
+Chiyoko Yoshida of [chiyoFM](http://www.chiyoFM.com) created the Theme  
+Nick Orr of [Goya LT](https://www.goya.com.au) provides the amazing and free Base Elements Plugin  
