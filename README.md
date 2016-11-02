@@ -1,6 +1,6 @@
 ![Logo](screen.png "Logo Title Text 1")
 
-# Generator
+# Generator v1.0.0
 
 Store, explore, share and create FileMaker code
 
@@ -9,10 +9,9 @@ Store, explore, share and create FileMaker code
 **You'll need the [BaseElements Plugin](http://www.goya.com.au/baseelements/plugin) to even do the build step**
 
 * Download or clone or this repository.
-* Launch the "build.fmp12" file.
-* Press "Build"
+* The prepped and current version is in the "dist" folder
 
-The newly prepped file will be in '/dist'
+The development version is in the "source" directory
 
 ### Videos
 
