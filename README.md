@@ -6,17 +6,18 @@ Store, explore, share and create FileMaker code
 
 ## Getting Started
 
-**You'll need the [BaseElements Plugin](http://www.goya.com.au/baseelements/plugin) to even do the build step**
+**You'll need the [BaseElements Plugin](http://www.goya.com.au/baseelements/plugin)**
 
 * Download or clone or this repository.
-* The prepped and current version is in the "dist" folder
+* The prepped and **current version** is in the "dist" folder
 
-The development version is in the "source" directory
+The development version is in the "source" directory.
 
 ### Videos
 
 JSON API and Field Maps
-http://youtu.be/OG_wDuFbFQo
+https://vimeo.com/190242455
+https://vimeo.com/190256809
 
 Custom Generators
 http://youtu.be/EnycrdIHSBQ
