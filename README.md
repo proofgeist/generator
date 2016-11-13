@@ -25,7 +25,7 @@ http://youtu.be/EnycrdIHSBQ
 Storing things on Disk
 http://youtu.be/8-bjvfMV_Jk
 
-## Version 1.0.3 - Released 11/12/16
+## Version 1.0.4 - Released 11/12/16
 
 This should be pretty solid. Any projects that used this prior to 1.0.3 will likely want to replace the HTTP Script the generator produces.  You'll want to replace the contents of the one you have with the new one. Just paste the new one into your solution, and then copy all it's contents into your original one.
 
