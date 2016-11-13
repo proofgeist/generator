@@ -25,11 +25,9 @@ http://youtu.be/EnycrdIHSBQ
 Storing things on Disk
 http://youtu.be/8-bjvfMV_Jk
 
-## Pre-Release
+## Version 1.0.3 - Released 11/12/16
 
-This is early beta quality. There are likely a lot of bugs. Especially on Windows, which has not been tested extensively.
-
-Please report bugs here in the Github's Issues.  It would be great if you could provide a fixed version in the issue, with notes, etc.
+This should be pretty solid. Any projects that used this prior to 1.0.3 will likely want to replace the HTTP Script the generator produces.  You'll want to replace the contents of the one you have with the new one. Just paste the new one into your solution, and then copy all it's contents into your original one.
 
 ## A Dev Tool Toolkit
 Under the hood, you will find a collection of custom functions, and techniques that making building a Dev Toolkit like this one possible. Check them out and see what you can do. We hope to inspire people to build on top of Generator and the functions it includes. 
