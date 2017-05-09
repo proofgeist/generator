@@ -1,8 +1,8 @@
 ![Logo](screen.png "Logo Title Text 1")
 
-# Generator v1.0.0
+# Generator v2.0.0
 
-Store, explore, share and create FileMaker code
+Store, explore, share and create FileMaker code. Including FileMaker 16
 
 ## Getting Started
 
@@ -25,10 +25,6 @@ http://youtu.be/EnycrdIHSBQ
 Storing things on Disk
 http://youtu.be/8-bjvfMV_Jk
 
-## Version 1.0.5 - Released 11/14/16
-REPLACE HTTP Script.
-
-This should be pretty solid. Any projects that used this prior to 1.0.3 will likely want to replace the HTTP Script the generator produces.  You'll want to replace the contents of the one you have with the new one. Just paste the new one into your solution, and then copy all it's contents into your original one.
 
 ## A Dev Tool Toolkit
 Under the hood, you will find a collection of custom functions, and techniques that making building a Dev Toolkit like this one possible. Check them out and see what you can do. We hope to inspire people to build on top of Generator and the functions it includes. 
