@@ -1,0 +1,4 @@
+﻿Timestamp	Filename	Error	Message
+2022-01-22 09:49:46.235 -0800	Generator.fmp12	0	*** Started consistency check of improperly closed file, total of 401 block(s) to check
+2022-01-22 09:49:46.238 -0800	Generator.fmp12	0	Reset maximum block sequence number to 110066
+2022-01-22 09:49:46.238 -0800	Generator.fmp12	0	*** Completed consistency check, checked 401 block(s)
